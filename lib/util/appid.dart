@@ -1,2 +1,2 @@
-const appId="cb9e6fee393e4e2fbcaf01c27d872d8f";
-const token="007eJxTYJCOleAWODh3b93x40feRwVsYxOb9GVn4INrVi/UXB7viuFUYEhOskw1S0tNNbY0TjVJNUpLSk5MMzBMNjJPsTA3SrFIq1l1Ma0hkJFBkv0SEyMDBIL4zAzFJSkMDABkhCAb";
+const appId="your appid";
+const token="your- token";
